@@ -1,0 +1,32 @@
+﻿Release Notes for APM32F4xx SDK
+
+Update History
+V1.0 / 30-09-2021
+First Release version of APM32F4xx SDK.
+
+V1.1 / 24-02-2022
+Update pack for 1.0.1.
+Update Library for 1.0.1.
+Added IAR Support.
+Added SDIO and DCI Example.
+
+V1.2 / 27-06-2022
+Update pack for 1.0.2.
+Update Library for 1.0.2.
+Update the folder directory structure.
+Added DSP, IAP, TMR and ADC Example.
+Added library instruction APM32F4xx_SDK_um.chm.
+
+V1.3 / 27-03-2023
+Update pack for 1.0.3.
+Update some Library .c/h for 1.0.3.
+Update library instruction APM32F4xx_SDK_um.chm.
+Added ETH, PMU, USART, USB_OTG Examples.
+Added Eclipse IED for all Examples.
+
+V1.4 / 31-07-2023
+Update pack for 1.0.4.
+Update some Library .c/h for 1.0.4.
+Update library instruction APM32F4xx_SDK_um.chm.
+Added COMP,QSPI,CustomHID Examples.
+Added project support for APM32F411 TINY.

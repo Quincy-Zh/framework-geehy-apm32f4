@@ -1,0 +1,8 @@
+1. \Examples\ETH\lwip-1.4.1\
+lwIP is freely available under a BSD license.The source code is derived from "http://download.savannah.nongnu.org/releases/lwip/".
+
+2. \FreeRTOS\FreeRTOS_v202012.00\
+FreeRTOS is freely available under a MIT license.The source code is derived from "https://freertos.org/".
+
+3. \RT-thread\rtthread-nano-master
+RT-Thread 3.1.5 is freely available under a Apache License 2.0.The source code is derived from "https://www.rt-thread.org/download.html#download-rt-thread-nano".
