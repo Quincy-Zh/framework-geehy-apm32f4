@@ -1,5 +1,5 @@
 {
-  "description": "",
+  "description": "PIO framework for Geehy APM32F4",
   "keywords": [
     "framework",
     "hal",
@@ -8,5 +8,5 @@
   ],
   "name": " framework-geehy-apm32f4",
   "version": "0.0.1",
-  "homepage": ""
+  "homepage": "https://github.com/Quincy-Zh/framework-geehy-apm32f4.git"
 }
